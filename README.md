@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+## Movie List Website
 
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
@@ -187,3 +188,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ![Movie Search](./screenshots/search.png)
 
 ![Watch List](./screenshots/watchlist.png)
+=======
+You can view the live version of this website here: [https://meinefilmliste.netlify.app/]
+
+Sie können die Live-Version dieser Website hier ansehen: [https://meinefilmliste.netlify.app/]"
+>>>>>>> 9001774b787d07c85f82db8afe702b1861c442d1
